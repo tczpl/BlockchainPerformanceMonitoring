@@ -39,3 +39,20 @@ Please manually unzip `Logs.zip`.
 Then download and install Node.js from <https://nodejs.org/>.
 
 Just run `node main.js` in command.
+
+## Paper
+If you are interested in this work, you can refer to our paper.
+
+Zheng, P., Zheng, Z., Luo, X., Chen, X., & Liu, X. (2018, May). A detailed and real-time performance monitoring framework for blockchain systems. In 2018 IEEE/ACM 40th International Conference on Software Engineering: Software Engineering in Practice Track (pp. 134-143). IEEE.
+
+@inproceedings{zheng2018detailed,
+  title={A detailed and real-time performance monitoring framework for blockchain systems},
+  author={Zheng, Peilin and Zheng, Zibin and Luo, Xiapu and Chen, Xiangping and Liu, Xuanzhe},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP)},
+  pages={134--143},
+  year={2018},
+  organization={IEEE}
+}
+
+## Dependency
+We use (Netdata)[https://github.com/netdata/netdata] to obtain the data of hardware resource.
