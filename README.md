@@ -55,4 +55,6 @@ Zheng, P., Zheng, Z., Luo, X., Chen, X., & Liu, X. (2018, May). A detailed and r
 }
 
 ## Dependency
-We use (Netdata)[https://github.com/netdata/netdata] to obtain the data of hardware resource.
+We use [Netdata](https://github.com/netdata/netdata) to obtain the data of hardware resource.
+
+Front-end: [AngularJS](https://angularjs.org/), lately upload.
