@@ -17,8 +17,11 @@ As for visulization, you can choose any front-end libraries as you like.
 
 ## Qucik Start
 
-First of all, `git clone https://github.com/tczpl/BlockchainPerformanceMonitoring.git` or download the ZIP.
+First of all, `git clone https://github.com/tczpl/BlockchainPerformanceMonitoring.git`.
+
 And `cd BlockchainPerformanceMonitoring`.
+
+Or download the ZIP, if you have not installed git.
 
 ### For Linux (Ubuntu 18.04)
 
