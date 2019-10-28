@@ -17,30 +17,17 @@ As for visulization, you can choose any front-end libraries as you like.
 
 ## Qucik Start
 
-First of all,
-
-`git clone https://github.com/tczpl/BlockchainPerformanceMonitoring.git`
-
- or download the ZIP of repo if you dont have git.
+First of all, `git clone https://github.com/tczpl/BlockchainPerformanceMonitoring.git` or download the ZIP of repo if you dont have git.
 
 ### For Linux (Ubuntu 18.04)
 
-Install unzip,
+Install unzip: `sudo apt-get install unzip`
 
-`sudo apt-get install unzip`
+Install nodejs: `sudo apt-get install nodejs`
 
-Install nodejs,
+Unzip the Logs files: `unzip Logs.zip`
 
-`sudo apt-get install nodejs`
-
-Unzip the Logs files,
-
-`unzip Logs.zip`
-
-Just run,
-
-`node main.js`
-
+Just run: `node main.js`
 
 ### For Windows
 Please manually unzip `Logs.zip`.
@@ -48,4 +35,3 @@ Please manually unzip `Logs.zip`.
 Then download and install Node.js from <https://nodejs.org/>.
 
 Just run `node main.js` in command.
-
